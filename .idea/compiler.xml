@@ -9,5 +9,8 @@
         <module name="spring-mvc" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CRUD_application" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
